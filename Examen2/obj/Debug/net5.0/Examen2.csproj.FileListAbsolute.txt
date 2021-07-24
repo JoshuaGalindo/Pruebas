@@ -1,0 +1,189 @@
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/appsettings.Development.json
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/appsettings.json
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.StaticWebAssets.xml
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.exe
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.deps.json
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.runtimeconfig.json
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.runtimeconfig.dev.json
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/ref/Examen2.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.pdb
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.Views.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.Views.pdb
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Humanizer.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Runtime.Caching.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/code/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.csproj.AssemblyReference.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.GeneratedMSBuildEditorConfig.editorconfig
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.AssemblyInfoInputs.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.AssemblyInfo.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.csproj.CoreCompileInputs.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.MvcApplicationPartsAssemblyInfo.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.MvcApplicationPartsAssemblyInfo.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorAssemblyInfo.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorAssemblyInfo.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/staticwebassets/Examen2.StaticWebAssets.Manifest.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/staticwebassets/Examen2.StaticWebAssets.xml
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/scopedcss/bundle/Examen2.styles.css
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.TagHelpers.input.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.TagHelpers.output.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorCoreGenerate.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorTargetAssemblyInfo.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorTargetAssemblyInfo.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.Views.pdb
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.csproj.CopyComplete
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.dll
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/ref/Examen2.dll
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.pdb
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.genruntimeconfig.cache
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Index.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Create.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Edit.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Delete.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Details.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Index.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Create.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Delete.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Edit.cshtml.g.cs
+D:/code/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Details.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/appsettings.Development.json
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/appsettings.json
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.StaticWebAssets.xml
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.deps.json
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.runtimeconfig.json
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.runtimeconfig.dev.json
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/ref/Examen2.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.Views.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Examen2.Views.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Humanizer.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.csproj.AssemblyReference.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.AssemblyInfoInputs.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.AssemblyInfo.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.csproj.CoreCompileInputs.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.MvcApplicationPartsAssemblyInfo.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.MvcApplicationPartsAssemblyInfo.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorAssemblyInfo.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorAssemblyInfo.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/staticwebassets/Examen2.StaticWebAssets.Manifest.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/staticwebassets/Examen2.StaticWebAssets.xml
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/scopedcss/bundle/Examen2.styles.css
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.TagHelpers.input.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.TagHelpers.output.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorCoreGenerate.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Create.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Delete.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Details.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Edit.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Listas/Index.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Create.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Delete.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Details.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Edit.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/Tareas/Index.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorTargetAssemblyInfo.cache
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.RazorTargetAssemblyInfo.cs
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.Views.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.csproj.CopyComplete
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/ref/Examen2.dll
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.pdb
+/Users/Joshi/OneDrive - Universidad Nacional Autónoma de Honduras/UNAH/PAC-II 2021/Sistemas de información/Parcial2/Examen2/Examen2/Examen2/obj/Debug/net5.0/Examen2.genruntimeconfig.cache

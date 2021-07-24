@@ -1,0 +1,39 @@
+﻿@model Examen2.Models.Lists
+@{
+    ViewData["Title"] = "Detalles";
+
+}
+
+<h1>Detalles</h1>
+<dd>
+    <div>
+        <h4>Lista de Tareas</h4>
+        <hr />
+        <dl class=" row">
+            <dt class=" col-sm-1">
+
+                @Html.DisplayNameFor(model => model.ListName)
+
+
+
+            </dt>
+
+
+            <dd class=" col-sm-3">
+
+
+                @Html.DisplayFor(model => model.ListName)
+        </dl>
+    </div>
+</dd>
+
+        
+
+
+
+  
+
+    <div>
+        <a asp-action="Edit" class="btn btn-warning" asp-route-id="@Model.ListId">Editar</a>
+        <a asp-action="Index" class="btn btn-success">Regresar</a>
+    </div>

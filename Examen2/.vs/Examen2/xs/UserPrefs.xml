@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{531E1B5E-4810-4C9C-94F6-7E3BF33CA232}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Lists.cs">
+    <Files>
+      <File FileName="Models/Lists.cs" Line="20" Column="1" />
+      <File FileName="Views/Listas/Details.cshtml" />
+      <File FileName="Models/ToDos.cs" Line="25" Column="24" />
+      <File FileName="Views/Listas/Index.cshtml" Line="40" Column="72" />
+      <File FileName="Views/Tareas/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/ListasController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/TareasController.cs" Line="1" Column="1" />
+      <File FileName="Views/Tareas/Create.cshtml" Line="18" Column="81" />
+      <File FileName="Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Examen2" expanded="True">
+            <Node name="Examen2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Lists.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Listas" expanded="True" />
+                <Node name="Tareas" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Examen2 PreferredExecutionTarget="/Users/Joshi/Documents/escritorio/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
